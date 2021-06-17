@@ -1,18 +1,10 @@
 # notes-app-back-end
 
-Simple sentiment analyst project using twitter API data. Twitter Developer account is needed to get API key and others. Time range and number of tweet to analyst can be arranged based on twitter developer account type. 
+Writed as Basic Back-End App Exercise Project from Dicoding Indonesia. Used Hapi Framework to develop the web server.
 
 ## Features
-* Gathering tweet data based on words to be analyzed
-* Update sentiment value
-* Show tweet data table
-* Visualize sentiment value based on number of tweet
-
-## Used Library 
-* Tweepy
-* Re
-* Pandas
-* Matplotlib
-* Numpy
-* Datetime
-* Sqlite3
+* Save the note data
+* Show all notes
+* Show the note details
+* Edit note data
+* Delete note
